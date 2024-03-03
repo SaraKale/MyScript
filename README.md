@@ -5,10 +5,10 @@
 # Python
 
 - **blog相关**
-  [拆分json数据.py](Python/blog/拆分json数据.py)
-  [替换评论pid.py](Python/blog/替换评论pid.py)
-  [json时间排序.py](Python/blog/json时间排序.py)
-  [url末尾判断.py](Python/blog/url末尾判断.py)
+  - [拆分json数据.py](Python/blog/拆分json数据.py)
+  - [替换评论pid.py](Python/blog/替换评论pid.py)
+  - [json时间排序.py](Python/blog/json时间排序.py)
+  - [url末尾判断.py](Python/blog/url末尾判断.py)
 
   这几个都是跟waline评论系统有关的，是为了整理评论内容。
 
@@ -25,7 +25,11 @@
 - [批量rar解压压缩包并重命名.bat](bat/批量rar解压压缩包并重命名.bat)
   
   批量解压多个rar压缩包，并将解压出来的文件夹和文件以该压缩包的名称重命名。
-
+  
+- [git自动推送.bat](bat/git自动推送.bat)
+	
+  git自动推送，并根据当天日期作为commit上传。
+  
 # javascript
 
 - [AI文件批量导出为PNG脚本.jsx](javascript/AI文件批量导出为PNG脚本.jsx)
